@@ -1,0 +1,7 @@
+main.c:34:5:main	416	static
+main.c:55:6:TIMER6_Init	8	static
+main.c:66:6:float_point_math_calculation	40	static
+main.c:83:6:fixed_point_math_calculation	40	static
+main.c:101:6:record_time_start	8	static
+main.c:105:6:record_time_stop_and_measure_elapsed	16	static
+main.c:111:6:Error_handler	4	static
