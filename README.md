@@ -1,5 +1,5 @@
 ### Comprison between Fixed Point Math and Float Point Math 
-## No FPU used
+#### No FPU used
 #### This expriment tested on  <h6> STM32F446RE MCU
 
    ------------                                      |Fixed Point function  | Float Point function
