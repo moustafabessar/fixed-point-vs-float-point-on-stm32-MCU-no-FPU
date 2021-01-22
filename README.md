@@ -17,7 +17,7 @@ Float point : 0.011616us
 Fixed point : 0.007105us
 Float point : 0.010019us
 
-All tests cases are tested on (16 Mhz) HSI as a System Clock and base timer with 24 prescaler
+All test cases are tested on (16 Mhz) HSI as a System Clock and base timer with 24 prescaler
 
    ------------                                      |Fixed Point function  | Float Point function
    -----------                                       | ------------         | -------------
