@@ -105,7 +105,7 @@ void record_time_start(void)
 void record_time_stop_and_measure_elapsed(void)
 {
 	printf("%f us\n",( ( htimer6.Instance->CNT) * TIME_PERIOD_OF_CNT_CLK) );
-	HAL_TIM_Base_Start(&htimer6);
+	HAL_TIM_Base_Stop(&htimer6);
 }
 
 void Error_handler(void)
